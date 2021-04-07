@@ -1,0 +1,90 @@
+newmtl Std_Skin_Head
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1002_diffuse.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1002_specular.png
+newmtl Std_Tongue
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Tongue/Std_Tongue_1001_diffuse.png
+    map_Pm Lion-O Base/Std_Tongue/Std_Tongue_1001_metallic.png
+    map_Pr Lion-O Base/Std_Tongue/Std_Tongue_1001_roughness.png
+newmtl Std_Skin_Head
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1001_diffuse.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1001_specular.png
+newmtl Std_Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1003_diffuse.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1003_specular.png
+newmtl Std_Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1004_diffuse.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1004_specular.png
+newmtl Std_Skin_Head
+    Ns 1.071773
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1005_diffuse.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1005_specular.png
+newmtl Std_Skin_Head
+    Ns 1.071773
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Lion-O Base/Std_Skin_Head/Std_Skin_Head_1006_diffuse.png
+    map_D Lion-O Base/Std_Skin_Head/Std_Skin_Head_1006_opacity.png
+    map_Ks Lion-O Base/Std_Skin_Head/Std_Skin_Head_1006_specular.png
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Lion-O Base/Lower_Teeth/Lower_Teeth_1001_diffuse.jpg
+    map_Ks Lion-O Base/Lower_Teeth/Lower_Teeth_1001_specular.jpg
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Lion-O Base/Upper_Teeth/Upper_Teeth_1001_diffuse.jpg
+    map_Ks Lion-O Base/Upper_Teeth/Upper_Teeth_1001_specular.jpg
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Lion-O Base/Eye/Eye_1001_diffuse.png
+    map_refl Lion-O Base/Eye/Eye_1001_reflection.jpg
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Lion-O Base/Cornea/Cornea_1001_diffuse.png
+    map_refl Lion-O Base/Cornea/Cornea_1001_reflection.jpg
