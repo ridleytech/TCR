@@ -49,3 +49,7 @@
 *.Zprj filter=lfs diff=lfs merge=lfs -text
 *.fbxkey filter=lfs diff=lfs merge=lfs -text
 *.spp filter=lfs diff=lfs merge=lfs -text
+#substance
+*.sbs filter=lfs diff=lfs merge=lfs -text
+#zbrush
+*.ztl filter=lfs diff=lfs merge=lfs -text
